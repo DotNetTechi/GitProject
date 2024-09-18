@@ -15,6 +15,8 @@ namespace GitHubRepo
         public Form1()
         {
             InitializeComponent();
+           // DataTableClearEventArgs(DataTableClearEventArgs);
+            //pankaj pagal hai
         }
     }
 }
